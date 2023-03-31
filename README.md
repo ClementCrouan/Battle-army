@@ -8,3 +8,5 @@ mais aussi en première personne:
 Cycle jour/nuit:
 ![image](https://user-images.githubusercontent.com/129319404/229168834-b4c6c196-cd7d-470f-a090-1ca53f3a75d5.png)
 Génération aléatoire de la map. Eau, montagne et arbre.
+Paramètre: 
+![image](https://user-images.githubusercontent.com/129319404/229170630-4457337f-7b75-4a95-9550-c9bd42ac5a86.png)
